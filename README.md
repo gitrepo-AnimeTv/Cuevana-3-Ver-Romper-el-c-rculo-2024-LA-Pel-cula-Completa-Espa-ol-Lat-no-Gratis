@@ -37,7 +37,7 @@ We have curated frequently asked questions and common mistakes on Discourse, you
 
 [![Publish](https://github.com/npm/documentation/actions/workflows/publish.yml/badge.svg)](https://github.com/gitrepo-gitTv/Cuevana-3-Ver-Romper-el-c-rculo-2024-LA-Pel-cula-Completa-Espa-ol-Lat-no-Gratis)
 
-[![Group](https://img.shields.io/static/v1?label=GiThub&message=Code&color=blue)](https://github.com/gitrepo-gitTv/Cuevana-3-Ver-Romper-el-c-rculo-2024-LA-Pel-cula-Completa-Espa-ol-Lat-no-Gratis)
+[![Group](https://github.com/npm/documentation/actions/workflows/publish.yml/badge.svg)](https://github.com/gitrepo-gitTv/Cuevana-3-Ver-Romper-el-c-rculo-2024-LA-Pel-cula-Completa-Espa-ol-Lat-no-Gratis)
 
 
 🏆[![Group](https://img.shields.io/static/v1?label=Website&message=facebook&color=blue)](https://www.facebook.com/groups/548039300909916/posts/554770153570164/)
